@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Book
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Book\ here.\r\n\r\n\ @author\ Kaz\ Cogswell\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Book()
+comment2.params=firstName
+comment2.target=void\ setFirstName(java.lang.String)
+comment3.params=lastName
+comment3.target=void\ setLastName(java.lang.String)
+comment4.params=ISBN
+comment4.target=void\ setISBNNum(int)
+comment5.params=title
+comment5.target=void\ setBookTitle(java.lang.String)
+comment6.params=date
+comment6.target=void\ setPubDate(java.lang.String)
+comment7.params=numOfPages
+comment7.target=void\ setNumPages(int)
+comment8.params=
+comment8.target=java.lang.String\ printBookTitle()
+numComments=9
